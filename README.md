@@ -8,7 +8,7 @@ An end-to-end deep learning project where we trained a Convolutional Neural Netw
 
 > Watch a quick demonstration of the web application in action!
 
-![Video Demo](static/demo.mp4)
+![Video Demo](static/demo.gif)
 
 *Note: If the video doesn't display properly on GitHub, you can view it directly in the `static/demo.mp4` file or run the Flask app locally to see the embedded video.*
 
